@@ -1,0 +1,18 @@
+[
+  {
+    "id": "keyboard",
+    "throttle": "W",
+    "brake": "S",
+    "steering": "A/D",
+    "drift": "Space",
+    "source": "digital"
+  },
+  {
+    "id": "controller",
+    "throttle": "right_trigger",
+    "brake": "left_trigger",
+    "steering": "left_stick_x",
+    "drift": "south_button",
+    "source": "analog"
+  }
+]

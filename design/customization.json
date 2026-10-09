@@ -1,0 +1,58 @@
+[
+  {
+    "id": "paint",
+    "unlock": "crafting",
+    "effect": "cosmetic",
+    "assetSource": "player_heat_install",
+    "verified": false
+  },
+  {
+    "id": "wheels",
+    "unlock": "crafting",
+    "effect": "cosmetic",
+    "assetSource": "player_heat_install",
+    "verified": false
+  },
+  {
+    "id": "spoiler",
+    "unlock": "crafting",
+    "effect": "cosmetic",
+    "assetSource": "player_heat_install",
+    "verified": false
+  },
+  {
+    "id": "front_bumper",
+    "unlock": "crafting",
+    "effect": "cosmetic",
+    "assetSource": "player_heat_install",
+    "verified": false
+  },
+  {
+    "id": "rear_bumper",
+    "unlock": "crafting",
+    "effect": "cosmetic",
+    "assetSource": "player_heat_install",
+    "verified": false
+  },
+  {
+    "id": "front_lip",
+    "unlock": "crafting",
+    "effect": "cosmetic",
+    "assetSource": "player_heat_install",
+    "verified": false
+  },
+  {
+    "id": "rear_lip",
+    "unlock": "crafting",
+    "effect": "cosmetic",
+    "assetSource": "player_heat_install",
+    "verified": false
+  },
+  {
+    "id": "side_skirts",
+    "unlock": "crafting",
+    "effect": "cosmetic",
+    "assetSource": "player_heat_install",
+    "verified": false
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "heat_install_discovery",
+    "implementationStatus": "pending",
+    "verified": false
+  },
+  {
+    "id": "heat_mesh_import",
+    "implementationStatus": "pending",
+    "verified": false
+  },
+  {
+    "id": "heat_material_import",
+    "implementationStatus": "pending",
+    "verified": false
+  },
+  {
+    "id": "minecraft_vehicle_entity",
+    "implementationStatus": "pending",
+    "verified": false
+  },
+  {
+    "id": "vehicle_collision",
+    "implementationStatus": "pending",
+    "verified": false
+  },
+  {
+    "id": "crafting_recipes",
+    "implementationStatus": "pending",
+    "verified": false
+  },
+  {
+    "id": "garage_interface",
+    "implementationStatus": "pending",
+    "verified": false
+  },
+  {
+    "id": "controller_input",
+    "implementationStatus": "pending",
+    "verified": false
+  },
+  {
+    "id": "save_customization",
+    "implementationStatus": "pending",
+    "verified": false
+  }
+]

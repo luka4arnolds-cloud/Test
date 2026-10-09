@@ -1,0 +1,14 @@
+[
+  {
+    "id": "drift",
+    "maxSpeed": 24.0,
+    "acceleration": 10.0,
+    "braking": 18.0,
+    "rollingDrag": 0.35,
+    "grip": 7.0,
+    "driftGrip": 1.25,
+    "steerRate": 1.7,
+    "steerResponse": 8.0,
+    "deadzone": 0.12
+  }
+]
